@@ -16,13 +16,13 @@ Profilemesh helps you decode office politics, spot hidden alliances, understand 
 
 ![thumbnails](images/thumbnails.png)
 
-#### [main page](https://app.profilemesh.com/)
+#### [Main page](https://app.profilemesh.com/)
 
 Log in to receive free points.
 
 ![app_page_zen](images/app_page_zen.png)
 
-#### introduction
+#### Introduction
 
 Most people are not losing at work because they lack skill. They are losing because they cannot see the real human game clearly.
 
